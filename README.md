@@ -60,7 +60,7 @@ torchvision
 ## Notes
 - Raw MRI data is not included; download from Kaggle for the real data project.
 - The synthetic data project does not require external datasets.
-- Contact: [adithyac8700@gmail.com]  # Replace with your email
+- Contact: [adithyac8700@gmail.com] 
 
 
 ## Acknowledgments
