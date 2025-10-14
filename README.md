@@ -60,8 +60,8 @@ torchvision
 ## Notes
 - Raw MRI data is not included; download from Kaggle for the real data project.
 - The synthetic data project does not require external datasets.
-- Contact: [adithya.c@example.com]  # Replace with your email
-- Last updated: October 15, 2025
+- Contact: [adithyac8700@gmail.com]  # Replace with your email
+
 
 ## Acknowledgments
 - Kaggle community for the "Depression Detection Using MRI" dataset.
